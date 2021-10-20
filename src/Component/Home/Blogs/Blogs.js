@@ -20,7 +20,7 @@ const Blogs = () => {
                     )
                 }
             </Row>
-            <p className="text-xl font-semibold">Insights to help you do what you do better, faster and more profitably. <Link to="/all-blogs" className="text-green-500 hover:text-green-700 transition duration-500 hover:underline">Read Full Blog</Link></p>
+            <p className="text-xl font-semibold pt-3">Insights to help you do what you do better, faster and more profitably. <Link to="/all-blogs" className="text-green-500 hover:text-green-700 transition duration-500 hover:underline">Read Full Blog</Link></p>
         </Container>
     );
 };

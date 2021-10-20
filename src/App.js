@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import Banner from './Component/Home/Banner/Banner';
 import Header from './Component/Shared/Header/Header';
 import Login from './Component/Login/Login/Login';
 import AuthProvider from './Context/AuthProvider';
