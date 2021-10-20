@@ -15,6 +15,7 @@ import AllServices from './Component/AllServices/AllServices';
 import Blogs from './Component/Home/Blogs/Blogs';
 import AllBlogs from './Component/AllBlogs/AllBlogs';
 import AboutUs from './Component/AboutUs/AboutUs';
+import ContactUs from './Component/ContactUs/ContactUs';
 
 function App() {
   return (
@@ -46,6 +47,9 @@ function App() {
             </Route>
             <Route path='/about'>
               <AboutUs></AboutUs>
+            </Route>
+            <Route path='/contact'>
+              <ContactUs></ContactUs>
             </Route>
             <PrivateRoute path='/all-services'>
               <AllServices></AllServices>

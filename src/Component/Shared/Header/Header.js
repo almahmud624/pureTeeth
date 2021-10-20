@@ -15,8 +15,8 @@ const Header = () => {
                     <Navbar.Collapse className="justify-content-end">
                         <Nav.Link as={NavHashLink} className="text-green-500 font-medium transform hover:scale-90 hover:text-green-500 transition duration-500" to="/home" activeStyle={{ color: 'white' }}>Home</Nav.Link>
                         <Nav.Link as={NavHashLink} className="text-green-500 font-medium transform hover:scale-90 hover:text-green-500 transition duration-500" to="/home#services" activeStyle={{ color: 'white' }}>Services</Nav.Link>
-                        <Nav.Link as={NavHashLink} className="text-green-500 font-medium transform hover:scale-90 hover:text-green-500 transition duration-500" to="/home#doctors" activeStyle={{ color: 'white' }}>Doctors</Nav.Link>
                         <Nav.Link as={NavHashLink} className="text-green-500 font-medium transform hover:scale-90 hover:text-green-500 transition duration-500" to="/home#blogs" activeStyle={{ color: 'white' }}>Blog</Nav.Link>
+                        <Nav.Link as={NavHashLink} className="text-green-500 font-medium transform hover:scale-90 hover:text-green-500 transition duration-500" to="/contact" activeStyle={{ color: 'white' }}>Contact</Nav.Link>
                         <Nav.Link as={NavHashLink} className="text-green-500 font-medium transform hover:scale-90 hover:text-green-500 transition duration-500" to="/about" activeStyle={{ color: 'white' }}>About</Nav.Link>
                         {user?.email ? <Nav.Link><Button onClick={logOut} className="border-0 bg-green-500 font-medium hover:bg-green-700 transition duration-500">Logout</Button></Nav.Link> : <Nav.Link as={NavHashLink} to="/login" className="text-green-500 font-medium transform hover:scale-90 hover:text-green-500 transition duration-500" activeStyle={{ color: 'white' }}>Account</Nav.Link>}
                         <Navbar.Text className="text-green-400 font-medium">
