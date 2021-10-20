@@ -1,4 +1,4 @@
-# EduFlow The Biggest Learning Platform
+# Pure Teeth The best Dentist Clinic
 
 Find specalist for your teeth, visit [Pure Teeth](https://pure-teeth.netlify.app/). Make appointment with spcalist doctor, keep your teeth healthy.
 
