@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1,
+      "name": "Dental Implants",
+      "shortDescription": "Dental implants can be used to replace a single tooth, several teeth, or all of the teeth. The goal of teeth replacement in dentistry is to restore function as well as esthetics.",
+      "LongDescription": "A dental surgeon examines the area to be considered for the dental implant and makes a clinical assessment of whether the patient is a good candidate for a dental implant. There are great advantages to choosing a dental implant for tooth replacement over the other options. Dental implants are conservative in that missing teeth can be replaced without affecting or altering the adjacent teeth. Furthermore, because dental implants integrate into the bone structure, they are very stable and can have the look and feel of ones own natural teeth.",
+      "cost": 2040,
+      "img": "https://image.freepik.com/free-photo/woman-patient-dentist_1303-9364.jpg",
+      "doctor": "Dr. Ina Oicrosa",
+      "specialistIn": "Root Canals Dentist",
+      "drImg": "https://image.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cosmetic Dentistry",
+      "shortDescription": "If your teeth are stained, discolored, worn, chipped, broken, misaligned, misshapen, or have gaps between them, modern cosmetic dentistry can give you a better smile.",
+      "LongDescription": "Dental veneers are wafer-thin, custom-made shells of tooth-colored porcelain or resin that cover the front surface of the teeth. After removing about a half-millimeter of enamel from the tooth surface, these thin shells are bonded (cemented) to the front of the teeth, changing their color, shape, size, or length. Veneers are often called “Hollywood teeth.\" Living up to that name, this process can cost up to $500-$1,300 per tooth.In dental bonding, a tooth-colored, putty-like resin, which is a durable plastic material, is applied to the tooth and hardened with an ultraviolet or laser light, bonding the material to the tooth. ",
+      "cost": 400,
+      "img": "https://image.freepik.com/free-photo/woman-patient-visiting-dentist_1303-24409.jpg",
+      "doctor": "Dr. Linda Feldman",
+      "specialistIn": "Prosthodontics Dentist",
+      "drImg": "https://image.freepik.com/free-photo/portrait-smiling-male-doctor_171337-1532.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dental Bridges",
+      "shortDescription": "A dental bridge can be used to replace anywhere from one to four teeth, depending on the patients needs. However, it is most common that one to two teeth will be replaced.",
+      "LongDescription": "If you have one or more missing teeth, a dental bridge can fill the gap with one or more artificial (false) teeth. A bridge is typically made of crowns on either side of the missing tooth or teeth supporting the pontic (false tooth) and is cemented in place.Dental bridges can help if you have a missing tooth or teeth. The most common causes of missing teeth are tooth decay, gum disease and injury. Or you may have been born with missing teeth due to a congenital condition. To get a dental bridge, you need healthy teeth on either side of the missing ones.",
+      "cost": 400,
+      "img": "https://image.freepik.com/free-photo/female-dentist-is-installing-patient-s-mouth-device-making-molded-tooth_365776-4910.jpg",
+      "doctor": "Dr. Addison Smith",
+      "specialistIn": "Restorative Dentist",
+      "drImg": "https://image.freepik.com/free-photo/hospital-healthcare-workers-covid-19-treatment-concept-young-doctor-scrubs-making-daily-errands-clinic-listening-patient-symptoms-look-camera-professional-physician-curing-diseases_1258-57233.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Teeth Whitening",
+      "shortDescription": "There are many teeth whitening systems and products, including whitening toothpastes, over-the-counter gels, rinses, strips, trays, and whitening products you get from a dentist.",
+      "LongDescription": "There are many teeth whitening systems and products, including whitening toothpastes, over-the-counter gels, rinses, strips, trays, and whitening products you get from a dentist.Teeth whitening is ideal for people who have healthy, unrestored teeth(no fillings) and gums.Individuals with yellow tones to their teeth respond best.But this cosmetic procedure is not recommended for everyone.At-home whiteners have peroxides, typically carbamide peroxide, in amounts ranging from 10% to 20%. Choose a product with a peroxide level in the middle of that range. If the product doesn’t bother your mouth but doesn’t give the lightening effect you want, you can choose a higher level. If you have any questions, your dentist can help you find the whitener that best fits your needs.",
+      "cost": 20,
+      "img": "https://image.freepik.com/free-photo/white-teeth_144627-6526.jpg",
+      "doctor": "Dr. Zordan Smith",
+      "specialistIn": "Aesthetic Dentistry",
+      "drImg": "https://image.freepik.com/free-photo/african-american-medical-doctor-man-with-mask-isolated-gray-background_231208-2230.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Root Canel",
+      "shortDescription": "Root canal treatment is a treatment sequence for the infected pulp of a tooth which is intended to result in the elimination of infection and the protection of the decontaminated tooth from future microbial invasion.",
+      "LongDescription": "It’s necessary to have endodontic or root canal treatment when the inside of your tooth (the pulp) becomes inflamed or infected as a result of deep decay, repeated dental procedures, faulty crowns or a crack or chip in the tooth. Trauma to your tooth may also cause pulp damage even if the tooth has no visible chips or cracks. If pulp inflammation or infection is left untreated, in can cause pain or lead to an abscess.When you undergo a root canal or other endodontic treatment, the inflamed or infected pulp is removed and the inside of the tooth is carefully cleaned and disinfected, then filled and sealed with a rubber-like material called gutta-percha. Afterwards, the tooth is restored with a crown or filling for protection and will continue to function like any other tooth.",
+      "cost": 230,
+      "img": "https://image.freepik.com/free-photo/dentist-comparing-patient-s-teeth-shade-with-samples-bleaching-treatment_365776-4915.jpg",
+      "doctor": "Dr. Lardern Hood",
+      "specialistIn": "Gastroenterologists",
+      "drImg": "https://image.freepik.com/free-photo/doctor-standing-with-folder-stethoscope_1291-16.jpg?1"
+    },
+    {
+      "id": 6,
+      "name": "Orthodontics",
+      "shortDescription": "Orthodontics is a dentistry specialty that addresses the diagnosis, prevention, and correction of mal-positioned teeth and jaws.",
+      "LongDescription": "Many people have crowded or crooked teeth. Orthodontic treatment will straighten the teeth or move them into a better position. This can improve their appearance and the way the teeth bite together, while also making them easier to clean.Some people have upper front teeth that stick out and look unsightly. These teeth are more likely to be damaged, but orthodontic treatment can move them back into line. Or the way the upper and lower jaws meet can cause teeth to look unsightly and lead to an incorrect bite. Orthodontic treatment may be able to correct both of these problems.When the teeth dont meet correctly, this can put strain on the muscles of the jaw, causing jaw and joint problems and sometimes headaches. Orthodontic treatment can help you to bite more evenly and reduce the strain.",
+      "cost": 3000,
+      "img": "https://image.freepik.com/free-photo/beautiful-young-woman-with-teeth-braces_155003-1047.jpg",
+      "doctor": "Dr. Ena Dicrosa",
+      "specialistIn": "Implant Surgeon",
+      "drImg": "https://image.freepik.com/free-photo/young-woman-surgeon-blue-background-with-stethoscope_1303-28685.jpg"
+    },
+    {
+      "id": 7,
+      "name": "General Dentistry",
+      "shortDescription": "A general dentist is your primary care dental provider. This dentist diagnoses, treats, and manages your overall oral health care needs, including gum care, root canals, fillings, crowns, veneers, bridges, and preventive education",
+      "LongDescription": "Many people have crowded or crooked teeth. Orthodontic treatment will straighten the teeth or move them into a better position. This can improve their appearance and the way the teeth bite together, while also making them easier to clean.Some people have upper front teeth that stick out and look unsightly. These teeth are more likely to be damaged, but orthodontic treatment can move them back into line. Or the way the upper and lower jaws meet can cause teeth to look unsightly and lead to an incorrect bite. Orthodontic treatment may be able to correct both of these problems.When the teeth dont meet correctly, this can put strain on the muscles of the jaw, causing jaw and joint problems and sometimes headaches. Orthodontic treatment can help you to bite more evenly and reduce the strain.",
+      "cost": 3000,
+      "img": "https://image.freepik.com/free-photo/dentistry-healthcare-concept-male-dentist-showing-teeth-x-ray-female-patient-dental-white-clinic-room_496169-918.jpg",
+      "doctor": "Dr. Oper Johne",
+      "specialistIn": "Gastroenterologists",
+      "drImg": "https://image.freepik.com/free-photo/young-woman-surgeon-blue-background-with-stethoscope_1303-28685.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Wisdom Teeth",
+      "shortDescription": "What age do you get wisdom teeth? Wisdom teeth usually emerge sometime between the ages of 17 and 25. Some people have wisdom teeth that emerge without any problems and line up with the other teeth behind the second molars.",
+      "LongDescription": "Many people have crowded or crooked teeth. Orthodontic treatment will straighten the teeth or move them into a better position. This can improve their appearance and the way the teeth bite together, while also making them easier to clean.Some people have upper front teeth that stick out and look unsightly. These teeth are more likely to be damaged, but orthodontic treatment can move them back into line. Or the way the upper and lower jaws meet can cause teeth to look unsightly and lead to an incorrect bite. Orthodontic treatment may be able to correct both of these problems.When the teeth dont meet correctly, this can put strain on the muscles of the jaw, causing jaw and joint problems and sometimes headaches. Orthodontic treatment can help you to bite more evenly and reduce the strain.",
+      "cost": 3000,
+      "img": "https://image.freepik.com/free-photo/woman-whitening-teeth-dentistry-with-special-equipment_1303-26400.jpg",
+      "doctor": "Dr. Revea Hocrosa",
+      "specialistIn": "Restorative Dentist",
+      "drImg": "https://image.freepik.com/free-photo/young-woman-surgeon-blue-background-with-stethoscope_1303-28685.jpg"
+    }
+  ]

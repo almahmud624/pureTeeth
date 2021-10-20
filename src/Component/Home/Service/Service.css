@@ -1,0 +1,12 @@
+.service-card {
+    background:#3747A6 ;
+    color:#ffffff;
+}
+.service-card a{
+    text-decoration: none;
+    color:#333333;
+    font-weight:600;
+}
+button:hover a {
+    color:#000 !important;
+}
