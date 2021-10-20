@@ -7,7 +7,7 @@ import Blog from '../Blog/Blog';
 const Blogs = () => {
     const [blogs] = useBlogs();
     return (
-        <Container className="py-7">
+        <Container id="blogs" className="py-7">
             <h1 className="my-4 text-5xl font-bold">Read Our Latest Articles</h1>
             <p className="text-lg text-gray-600 mb-4 pb-4">Stay Updated with Our Latest News and Blog</p>
             <Row xs sm={2} md={2} lg={3} className="blogs g-4">
